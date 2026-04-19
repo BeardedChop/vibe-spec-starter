@@ -1,0 +1,23 @@
+# dependencies / builds
+node_modules/
+dist/
+coverage/
+
+# env / secrets
+.env
+.env.*
+!.env.example
+
+# logs
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# internal docs — never public
+*LAUNCH*
+GITHUB_DESCRIPTION.txt
+REPO_QA.md
