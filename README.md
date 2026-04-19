@@ -1,5 +1,7 @@
 # vibe-spec-starter
 
+![vibe-spec-starter cover](assets/images/vibe-spec-starter-cover-primary.jpg)
+
 your AI isn't the problem. your spec is.
 
 most beginners are not actually using weak models.
