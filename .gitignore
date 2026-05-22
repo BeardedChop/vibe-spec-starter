@@ -19,6 +19,7 @@ Thumbs.db
 
 # internal docs — never public
 *LAUNCH*
+TRACKING.md
 GITHUB_DESCRIPTION.txt
 REPO_QA.md
 PR_PREP.md

@@ -168,11 +168,9 @@ and more specifically:
 
 that’s the whole play.
 
-## license
+---
 
-MIT.
-
-do whatever you want with this.
+MIT. do whatever you want with these.
 
 made by @BChopLXXXII
 
